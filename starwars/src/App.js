@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import StarWars from './components/StarWars';
 
 const App = () => {
   // Try to think through what state you'll need for this app before starting. Then build out
@@ -12,8 +13,9 @@ const App = () => {
   return (
     <div className="App">
       <h1 className="Header">React Wars</h1>
+      <StarWars />
     </div>
-  );
+  ); 
 }
 
 export default App;
