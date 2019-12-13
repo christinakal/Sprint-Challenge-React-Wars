@@ -18,15 +18,6 @@
  export default StarWarsCard
 
 
-{/* <div className="star-wars-card">
-    <h1>{props.name}</h1>
-    <h3>Height: {props.height}</h3>
-    <h3>Hair color: {props.hair_color}</h3>
-    <h3>Eye color: {props.eye_color}</h3>
-</div> */}
-
-
-
 
 
 
