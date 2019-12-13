@@ -1,0 +1,28 @@
+.container{
+    width: 100%;
+    max-width: 850px;
+    margin: 20px auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+.entry{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.star-wars-card{
+    background: #CECBC6;
+    color: #482818;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0px 2px 7px -1px #482818;
+    /* margin-bottom: 30px; */
+    margin: 2%;
+}
